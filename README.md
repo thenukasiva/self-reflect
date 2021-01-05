@@ -1,4 +1,4 @@
-Made using React.js, HTML, CSS and Javascript. 
+📓a chrome extension that reminds users to reflect everyday and collects entries. made using React.js, HTML, CSS and Javascript. 
 
 
 #### React Instructions
