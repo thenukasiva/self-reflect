@@ -6,7 +6,7 @@ Technologies used:
 
 I created this application to explore the basics of React and made it a chrome extension so that I can use it in my day-to-day life. 
 
-Screenshots: 
+Screenshots:
 
 
 ## React Instructions
