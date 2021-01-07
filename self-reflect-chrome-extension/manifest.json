@@ -8,5 +8,5 @@
         "default_icon": "images/cute.png",
         "default_popup": "popup.html"
     },
-    "permissions": ["activeTab"] 
+    "permissions": ["activeTab", "http://localhost:", "<all_urls>", "storage"] 
 }
