@@ -1,0 +1,12 @@
+{
+    "name": "self-reflect chrome extension",
+    "version": "1.0",
+    "description": "a daily reflecting extension",
+    "manifest_version": 2, 
+    "icons": {"128": "images/cute128.png"},
+    "browser_action":{
+        "default_icon": "images/cute.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab", "http://localhost:", "<all_urls>", "storage"] 
+}
