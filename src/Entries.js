@@ -12,7 +12,6 @@ const EntryBody = props => {
                 <Row>
                     <Col>
                 <h2>{line.title}</h2>
-                <small>{Date()}</small>
                 <p>{line.body}</p>
                 <Button onClick={() => props.removeEntry(index)} color="primary">Delete</Button>
                 </Col>
@@ -39,6 +38,8 @@ const Entries = (props) => {
                
                 <EntryHeader />
                 <EntryBody entryData={entryData} removeEntry={removeEntry}/>
+                <div id="results"></div>
+                <Button onClick={() => document.getElementById("results").innerHTML = JSON.stringify(localStorage)} color="primary" style={{position:"absolute", bottom:"30px"}}>See Previous Entries</Button>
             </div>
 
         )

@@ -24,7 +24,11 @@ class Form extends Component {
     submitForm = () => {
         this.props.handleSubmit(this.state)
         this.setState(this.initialState)
+
+        const {title, body} = this.state;
+        localStorage.setItem(title, body);
     }
+
 
     render() {
         const {title, body } = this.state;
