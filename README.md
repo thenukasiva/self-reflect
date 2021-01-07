@@ -1,4 +1,4 @@
-📓just jot it! is a chrome extension that allows users to jot down anything they want while surfing the web. 
+📓self-reflect is a chrome extension that
 
 
 #### React Instructions
