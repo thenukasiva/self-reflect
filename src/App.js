@@ -28,7 +28,7 @@ class App extends Component {
     
     return (
       <div className="App container">
-        <h1 style={{paddingBottom:"30px", paddingTop:"10px"}}>My Journal App</h1>
+        <h1 style={{paddingBottom:"30px", paddingTop:"10px", font: "Lucida Sans Regular", color:"#f28482"}}>Self-Reflect!</h1>
         <Form handleSubmit={this.handleSubmit}/>
         <Entries entryData={entries} removeEntry={this.removeEntry}/>
       </div>

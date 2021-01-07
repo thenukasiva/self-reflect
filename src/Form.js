@@ -57,7 +57,7 @@ class Form extends Component {
                             onChange={this.handleChange} />
                               </FormGroup>  
                 </form>
-                <Button  color="danger" onClick={this.submitForm} size="lg" block>Submit</Button>
+                <Button style={{backgroundColor:"#f28482", font: "Lucida Sans Regular"}} onClick={this.submitForm} size="lg" block>Submit</Button>
             </div>
         )
     }
