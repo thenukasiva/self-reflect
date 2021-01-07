@@ -1,4 +1,4 @@
-📓a chrome extension that reminds users to reflect everyday and collects entries. made using React.js, HTML, CSS and Javascript. 
+📓just jot it! is a chrome extension that allows users to jot down anything they want while surfing the web. 
 
 
 #### React Instructions
