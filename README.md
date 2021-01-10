@@ -7,7 +7,10 @@
 I created this application to explore the basics of React and made it a chrome extension so that I can use it in my day-to-day life. 
 
 ##  Screenshots:
-
+![Website Screenshot](/screenshots/screenshot1.png)
+![Website Screenshot](/screenshots/screenshot2.png)
+![Website Screenshot](/screenshots/screenshot3.png)
+![Website Screenshot](/screenshots/screenshot4.png)
 
 ##  Next steps:
 - Overall UI of application to learn UI and UX principles
