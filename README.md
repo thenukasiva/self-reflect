@@ -9,7 +9,7 @@ I created this application to explore the basics of React and made it a chrome e
 Screenshots:
 
 
-Currently updating: 
+Next steps:
 - Overall UI of application to learn UI and UX principles
 - Adding mood ratings and more features
 - Linking to backend: Firebase
