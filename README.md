@@ -14,11 +14,11 @@ Users can either click the button on the popup which will direct user to the Rea
 
 #### React App
 ![Website Screenshot](/screenshots/screenshot1.png)
-![Website Screenshot](/screenshots/screenshot2.png)
+![Website Screenshot](/screenshots/screenshot4.png)
 
 #### Pop up
 ![Website Screenshot](/screenshots/screenshot3.png)
-![Website Screenshot](/screenshots/screenshot4.png)
+![Website Screenshot](/screenshots/screenshot2.png)
 
 ##  Next steps:
 - Overall UI of application to learn UI and UX principles
