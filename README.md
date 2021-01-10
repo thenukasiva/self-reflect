@@ -1,14 +1,14 @@
 📓Self-Reflect is a chrome extension that reminds users to reflect on their day and saves their entries on a React app hosted locally on their computer. 
 
-## Technologies used: 
-- Web application: React.js, Bootstrap, Reactstrap, a bit of Node.js and Web Storage API
-- Chrome Extension: HTML, CSS, Javascript
-
 I created this application to explore the basics of React and made it a chrome extension so that I can use it in my day-to-day life. 
 Users can either click the button on the popup which will direct user to the React app where they can store their entries. Previous entries are stored via local storage. 
 
 1. The popup (chrome extension) is available to the user when they download the files under "self-reflect-chrome-extension" and set the chrome extension up locally (manage extensions -> load unpacked -> open self-reflect-chrome-extension folder". 
 2. Follow React instructions to set it up locally.
+
+## Technologies used: 
+- Web application: React.js, Bootstrap, Reactstrap, a bit of Node.js and Web Storage API
+- Chrome Extension: HTML, CSS, Javascript
 
 ##  Screenshots:
 
