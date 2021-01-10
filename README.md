@@ -5,10 +5,18 @@
 - Chrome Extension: HTML, CSS, Javascript
 
 I created this application to explore the basics of React and made it a chrome extension so that I can use it in my day-to-day life. 
+Users can either click the button on the popup which will direct user to the React app where they can store their entries. Previous entries are stored via local storage. 
+
+1. The popup (chrome extension) is available to the user when they download the files under "self-reflect-chrome-extension" and set the chrome extension up locally (manage extensions -> load unpacked -> open self-reflect-chrome-extension folder". 
+2. Follow React instructions to set it up locally.
 
 ##  Screenshots:
+
+#### React App
 ![Website Screenshot](/screenshots/screenshot1.png)
 ![Website Screenshot](/screenshots/screenshot2.png)
+
+#### Pop up
 ![Website Screenshot](/screenshots/screenshot3.png)
 ![Website Screenshot](/screenshots/screenshot4.png)
 
